@@ -6,7 +6,7 @@
       "properties": {
           "href": "https://sfbike.org/?polk",
           "popupContent": "Polk Street Northbound Separated Bikeway",
-          "marker-color": "#27408B"
+          "marker-color": "27408B"
           },
       "geometry": {
         "type": "LineString",
