@@ -3,7 +3,9 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {"href": "https://sfbike.org/?polk"},
+      "properties": {
+          "href": "https://sfbike.org/?polk"
+          "popupContent": "Polk Street Northbound Separated Bikeway"},
       "geometry": {
         "type": "LineString",
         "coordinates": [
