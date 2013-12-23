@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {"href": "https://sfbike.org/?polk"},
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -36,7 +36,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {https://sfbike.org/?polk#contraflow},
       "geometry": {
         "type": "LineString",
         "coordinates": [
