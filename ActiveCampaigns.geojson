@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-          "href": "https://sfbike.org/?polk",
-          "popupContent": "Polk Street Northbound Separated Bikeway",
-          "marker-color": "27408B"
+          "Description" : "Polk Street Contraflow - From Market to Grove",
+          "Internal Page": "https://sfbike.org/?polk#contraflow",
+          "Official Project Name": "Polk Street Northbound Separated Bikeway"
           },
       "geometry": {
         "type": "LineString",
@@ -40,7 +40,11 @@
     },
     {
       "type": "Feature",
-      "properties": {"href": "https://sfbike.org/?polk#contraflow"},
+      "properties": {
+          "Description" : "Polk Street Project - From McAllister to Union",
+          "Internal Page": "https://sfbike.org/?polk",
+          "Official Project Name": "Polk Street Improvement Project"
+          },
       "geometry": {
         "type": "LineString",
         "coordinates": [
