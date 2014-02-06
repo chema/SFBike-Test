@@ -46,8 +46,8 @@
       "properties": {
           "Description" : "Polk Street Project - From McAllister to Union",
           "Internal Page": "https://sfbike.org/?polk",
-          "Official Project Name": "Polk Street Improvement Project"
-          "Project Status": "Environmental Review 2/6/2014"
+          "Official Project Name": "Polk Street Improvement Project",
+          "Project Status": "Environmental Review 2/6/2014",
           "stroke-width": 5,
           "stroke": "#228b22"
           },
