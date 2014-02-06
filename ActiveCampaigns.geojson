@@ -6,7 +6,9 @@
       "properties": {
           "Description" : "Polk Street Contraflow, from Market to Grove",
           "Internal Page": "https://sfbike.org/?polk#contraflow",
-          "Official Project Name": "Polk Street Northbound Separated Bikeway"
+          "Official Project Name": "Polk Street Northbound Separated Bikeway",
+          "stroke-width": 4,
+          "stroke": "#f0f0f0"
           },
       "geometry": {
         "type": "LineString",
