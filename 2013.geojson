@@ -4,8 +4,7 @@
       "properties": {
         "CNN": 11963101,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "47TH AV",
         "Streetna_1": "SLOAT BLVD",
@@ -36,8 +35,7 @@
       "properties": {
         "CNN": 11964101,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "UPPER GREAT HWY",
         "Streetna_1": "SLOAT BLVD",
@@ -68,8 +66,7 @@
       "properties": {
         "CNN": 6435101,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "LINCOLN WY",
         "Streetna_1": "GREAT HWY",
@@ -124,8 +121,7 @@
       "properties": {
         "CNN": 10544000,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "GREAT HWY",
         "Streetna_1": "POINT LOBOS AVE",
@@ -268,8 +264,7 @@
       "properties": {
         "CNN": 10543000,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "MERRIE WY",
         "Streetna_1": "POINT LOBOS AVE",
@@ -320,8 +315,7 @@
       "properties": {
         "CNN": 11960101,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "41ST AV",
         "Streetna_1": "SLOAT BLVD",
@@ -380,8 +374,7 @@
       "properties": {
         "CNN": 11961201,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "42ND AV",
         "Streetna_1": "SLOAT BLVD",
@@ -416,8 +409,7 @@
       "properties": {
         "CNN": 11961202,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "43RD AV",
         "Streetna_1": "SLOAT BLVD",
@@ -456,8 +448,7 @@
       "properties": {
         "CNN": 11962101,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "45TH AV",
         "Streetna_1": "SLOAT BLVD",
@@ -504,8 +495,7 @@
       "properties": {
         "CNN": 6433201,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "FULTON ST",
         "Streetna_1": "GREAT HWY",
@@ -536,8 +526,7 @@
       "properties": {
         "CNN": 6431201,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "BALBOA ST",
         "Streetna_1": "GREAT HWY",
@@ -600,8 +589,7 @@
       "properties": {
         "CNN": 6432101,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "CABRILLO ST",
         "Streetna_1": "GREAT HWY",
@@ -636,8 +624,7 @@
       "properties": {
         "CNN": 9762000,
         "DIRECT": "E",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "BRODERICK ST",
         "Streetna_1": "OAK ST",
@@ -668,8 +655,7 @@
       "properties": {
         "CNN": 9761000,
         "DIRECT": "E",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "BRODERICK ST",
         "Streetna_1": "OAK ST",
@@ -700,8 +686,7 @@
       "properties": {
         "CNN": 9760000,
         "DIRECT": "E",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "DIVISADERO ST",
         "Streetna_1": "OAK ST",
@@ -732,8 +717,7 @@
       "properties": {
         "CNN": 5694000,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "20TH ST",
         "Streetna_1": "FOLSOM ST",
@@ -764,8 +748,7 @@
       "properties": {
         "CNN": 5695000,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "21ST ST",
         "Streetna_1": "FOLSOM ST",
@@ -796,8 +779,7 @@
       "properties": {
         "CNN": 5696000,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "22ND ST",
         "Streetna_1": "FOLSOM ST",
@@ -828,8 +810,7 @@
       "properties": {
         "CNN": 5697000,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "23RD ST",
         "Streetna_1": "FOLSOM ST",
@@ -860,8 +841,7 @@
       "properties": {
         "CNN": 5698000,
         "DIRECT": "2W",
-                  "YEAR_INSTA": 2013,"stroke-width": 5,
-          "stroke": "#600000 ",
+        "YEAR_INSTA": 2013,
         "FACILITY_T": "BIKE LANE",
         "TO_ST": "24TH ST",
         "Streetna_1": "FOLSOM ST",
