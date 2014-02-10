@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+path {
+  fill: #ccc;
+  stroke: #fff;
+  stroke-width: .5px;
+}
+
+path:hover {
+  fill: red;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script>
+
+var width = Math.max(960, window.innerWidth),
+    height = Math.max(500, window.innerHeight);
+
+var projection = d3.geo.mercator()
+    .center([-122.44, 37.76])
+    .scale((1 << 20) / 2 / Math.PI)
+    .translate([width / 2, height / 2]);
+        
+var path = d3.geo.path().projection(projection);
+
+var svg = d3.select("body").append("svg").attr("width", width).attr("height", height);
+
+d3.json("04142012_sf_bos_final_draft.json", function(error, topology) {
+  svg.selectAll("path")
+      .data(topojson.feature(topology, topology.objects.districts).features)
+    .enter().append("path")
+      .attr("d", path);
+});
+
+</script>
