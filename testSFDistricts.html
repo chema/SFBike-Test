@@ -27,7 +27,7 @@ var svg = d3.select("body").append("svg")
     .attr("width", width)
     .attr("height", height);
 
-d3.json("/mbostock/raw/4090846/us.json", function(error, topology) {
+d3.json("https://raw2.github.com/elsanfranciscano/SFBike-Test/master/Elect_Supervisor_Dists_Topo.json", function(error, topology) {
   svg.selectAll("path")
       .data(topojson.feature(topology, topology.objects.districts).features)
     .enter().append("path")
