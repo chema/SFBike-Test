@@ -39414,7 +39414,7 @@
       "geometries": [
         {
           "properties": {
-            "supdist": "SUPERVISORIAL DISTRICT 2",
+            "supdist": "District 2",
             "numbertext": "TWO",
             "supervisor": 2,
             "supname": "Farrell"
@@ -39432,7 +39432,7 @@
         },
         {
           "properties": {
-            "supdist": "SUPERVISORIAL DISTRICT 1",
+            "supdist": "District 1",
             "numbertext": "ONE",
             "supervisor": 1,
             "supname": "Mar"
@@ -39450,7 +39450,7 @@
         },
         {
           "properties": {
-            "supdist": "SUPERVISORIAL DISTRICT 4",
+            "supdist": "District 4",
             "numbertext": "FOUR",
             "supervisor": 4,
             "supname": "Tang"
@@ -39468,7 +39468,7 @@
         },
         {
           "properties": {
-            "supdist": "SUPERVISORIAL DISTRICT 7",
+            "supdist": "District 7",
             "numbertext": "SEVEN",
             "supervisor": 7,
             "supname": "Yee"
@@ -39487,7 +39487,7 @@
         },
         {
           "properties": {
-            "supdist": "SUPERVISORIAL DISTRICT 8",
+            "supdist": "District 8",
             "numbertext": "EIGHT",
             "supervisor": 8,
             "supname": "Wiener"
@@ -39506,7 +39506,7 @@
         },
         {
           "properties": {
-            "supdist": "SUPERVISORIAL DISTRICT 11",
+            "supdist": "District 11",
             "numbertext": "ELEVEN",
             "supervisor": 11,
             "supname": "Avalos"
@@ -39525,7 +39525,7 @@
         },
         {
           "properties": {
-            "supdist": "SUPERVISORIAL DISTRICT 9",
+            "supdist": "District 9",
             "numbertext": "NINE",
             "supervisor": 9,
             "supname": "Campos"
@@ -39543,7 +39543,7 @@
         },
         {
           "properties": {
-            "supdist": "SUPERVISORIAL DISTRICT 10",
+            "supdist": "District 10",
             "numbertext": "TEN",
             "supervisor": 10,
             "supname": "Cohen"
@@ -39568,7 +39568,7 @@
         },
         {
           "properties": {
-            "supdist": "SUPERVISORIAL DISTRICT 6",
+            "supdist": "District 6",
             "numbertext": "SIX",
             "supervisor": 6,
             "supname": "Kim"
@@ -39595,7 +39595,7 @@
         },
         {
           "properties": {
-            "supdist": "SUPERVISORIAL DISTRICT 3",
+            "supdist": "District 3",
             "numbertext": "THREE",
             "supervisor": 3,
             "supname": "Chiu"
@@ -39613,7 +39613,7 @@
         },
         {
           "properties": {
-            "supdist": "SUPERVISORIAL DISTRICT 5",
+            "supdist": "District 5",
             "numbertext": "FIVE",
             "supervisor": 5,
             "supname": "Breed"
