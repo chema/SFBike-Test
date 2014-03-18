@@ -125,3 +125,4 @@
 { "type": "Feature", "properties": { "OBJECTID": 16167, "sgmt_pkey": 11681000, "street_nam": "SCOTT", "street_typ": "ST", "street_lay": "STREETS", "full_stree": "SCOTT ST", "class_code": "5", "gis_length": 0.05480426445, "duel_car_w": "NO", "duel_car_1": 0, "corrected_": 0.05480426445, "f_node_int": 26006000.0, "t_node_int": 26023000.0, "HIC_ID": 31, "HIC_Name": "SCOTT ST", "cross_stre": "HAYES ST", "cross_st_1": "DUBOCE AVE" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.43490640925161, 37.769118740617998 ], [ -122.435065531431135, 37.769903337123061 ] ] } }
 ]
 }
+ 
